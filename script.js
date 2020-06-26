@@ -23,7 +23,7 @@ const words = [
   "sun",
   "moon",
   "electric",
-  "spiderman",
+  "spider-man",
   "soul",
   "wrangler",
   "pomsky",
@@ -56,8 +56,9 @@ const words = [
   "vampire",
   "dracula",
   "frankenstein",
-  "firedemon",
+  "fire-demon",
   "t-virus",
+  "wolfs-bane",
 ];
 
 // init word
