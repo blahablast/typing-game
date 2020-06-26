@@ -59,6 +59,11 @@ const words = [
   "fire-demon",
   "t-virus",
   "wolfs-bane",
+  "belmont",
+  "alucard",
+  "medusa",
+  "death",
+  "minotaur",
 ];
 
 // init word
